@@ -1,0 +1,24 @@
+{
+  "input": "C:\\Projects\\almuallim\\data\\benchmarks\\almuallim_nvd_lessons.jsonl",
+  "records": 12000,
+  "repeat": 1,
+  "processed": 12000,
+  "complete": 12000,
+  "missing": 0,
+  "errors": 0,
+  "quality": 1.0,
+  "latency_ms": {
+    "mean": 0.001262450098389915,
+    "p99": 0.001900014467537403,
+    "max": 0.05880001117475331
+  },
+  "memory_mb": {
+    "current": 0.394944,
+    "peak": 0.394944
+  },
+  "elapsed_seconds": 0.033483500010333955,
+  "collapse_check": {
+    "passed": true,
+    "criteria": "errors == 0"
+  }
+}
